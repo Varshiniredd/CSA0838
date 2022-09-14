@@ -37,4 +37,8 @@ operations for two strings,
 integer and return string,
 number of student users in college,
 function delechars,
-array numbers(smaller than current numbers).
+array numbers(smaller than current numbers),
+valid palindrome,
+sorted vowel strings,
+roman numeral,
+seasons.
