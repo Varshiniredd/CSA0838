@@ -24,4 +24,12 @@ phone display,
 parenthesis,
 stair and patterns,
 seasons,
-common word.
+common word,
+Transcations,
+combinations,
+array of integers,
+Two binary strings,
+Minimum number of jumps,
+permutstions,
+string and pattern
+
