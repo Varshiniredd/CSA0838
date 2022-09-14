@@ -41,4 +41,6 @@ array numbers(smaller than current numbers),
 valid palindrome,
 sorted vowel strings,
 roman numeral,
-seasons.
+seasons,
+isscramble,
+minimum number of jumps.
