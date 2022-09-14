@@ -33,8 +33,8 @@ Minimum number of jumps,
 permutstions,
 string and pattern,
 anagramas,
-operations for two strings.
-integer and return string
-number of student users in college
-function delechars
+operations for two strings,
+integer and return string,
+number of student users in college,
+function delechars,
 array numbers(smaller than current numbers).
