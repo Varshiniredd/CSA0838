@@ -31,5 +31,7 @@ array of integers,
 Two binary strings,
 Minimum number of jumps,
 permutstions,
-string and pattern.
+string and pattern,
+anagramas,
+operations for two strings.
 
