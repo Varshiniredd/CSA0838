@@ -33,6 +33,13 @@ Minimum number of jumps,
 permutstions,
 string and pattern,
 anagramas,
+shuffle,
+triangular array,
+words and space,
+salary,
+peak elements,
+reverse word,
+square number
 operations for two strings,
 integer and return string,
 number of student users in college,
@@ -44,3 +51,4 @@ roman numeral,
 seasons,
 isscramble,
 minimum number of jumps.
+integers divisible by numbers
