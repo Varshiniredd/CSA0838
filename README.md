@@ -50,5 +50,15 @@ sorted vowel strings,
 roman numeral,
 seasons,
 isscramble,
-minimum number of jumps.
-integers divisible by numbers
+minimum number of jumps,
+integers divisible by numbers,
+words and spaces,
+salary.py,
+integer divisible numbers,
+square numbers,
+peak element,
+triangular array,
+repeating characters,
+matrix,
+function suffle,
+reverse word.
